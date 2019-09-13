@@ -8,7 +8,8 @@ Files related to the club's Winter Field Day operations.
   - [Black Moshannon State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/BlackMoshannonStatePark/Pages/default.aspx)
   - [Canoe Creek State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/CanoeCreekStatePark/Pages/default.aspx)
   - [Parker Dam State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/ParkerDamStatePark/Pages/default.aspx)
-  - Potter County Family Campground <https://www.pottercountycamping.com/potter_county_cabins.html>
+  - [Potter County Family Campground](https://www.dcnr.pa.gov/StateParks/LodgingLocationsMap/Pages/default.aspx)
+    - N3LI has operated from there.
   - Or other state parks with cabins: <https://www.dcnr.pa.gov/StateParks/LodgingLocationsMap/Pages/default.aspx>
 - Planning group members (as of 2019-09-13)
   - Eric Prescott W3EDP
